@@ -43,4 +43,4 @@
 **git log** -> shows full log of all commits to master branch
 **git checkout** 0> creates a new branch
 - `git checkout -b [branch name]` -creates a new branch and switches to that branch
-- `git checkout [branch name]`
+- `git checkout [branch name]` - switches to that branch
